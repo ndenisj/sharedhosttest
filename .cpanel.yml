@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/silaalrh/ep.silasogar.tech/
-    - /home/silaalrh/repositories/sharedhosttest/index.html $DEPLOYPATH
+    - /home/silaalrh/repositories/sharedhosttest index.html $DEPLOYPATH
